@@ -1,2 +1,2 @@
 # Pelajarin
-an online course landing page using JS, CSS
+an online course landing page using HTML, JS, CSS
